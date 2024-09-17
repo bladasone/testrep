@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sho-to tam
+=======
+This text about nothing. 123 anything
+>>>>>>> 3784ae64c37ca45131f89faf9a58f15f061ec45b
